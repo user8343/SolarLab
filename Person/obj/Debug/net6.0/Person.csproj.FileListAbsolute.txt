@@ -1,0 +1,12 @@
+C:\Users\dima\Desktop\birthDates\Person\bin\Debug\net6.0\Person.deps.json
+C:\Users\dima\Desktop\birthDates\Person\bin\Debug\net6.0\Person.dll
+C:\Users\dima\Desktop\birthDates\Person\bin\Debug\net6.0\Person.pdb
+C:\Users\dima\Desktop\birthDates\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+C:\Users\dima\Desktop\birthDates\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Desktop\birthDates\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+C:\Users\dima\Desktop\birthDates\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+C:\Users\dima\Desktop\birthDates\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\dima\Desktop\birthDates\Person\obj\Debug\net6.0\Person.dll
+C:\Users\dima\Desktop\birthDates\Person\obj\Debug\net6.0\refint\Person.dll
+C:\Users\dima\Desktop\birthDates\Person\obj\Debug\net6.0\Person.pdb
+C:\Users\dima\Desktop\birthDates\Person\obj\Debug\net6.0\ref\Person.dll
